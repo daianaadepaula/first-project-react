@@ -129,7 +129,7 @@ export const User = styled.li`
     p{
         font-style: normal;
         font-weight: normal;
-        font-size: 24px;
+        font-size: 20px;
         line-height: 28px;
 
         color: #FFFFFF;
